@@ -13,3 +13,10 @@ $ git clone git@github.com:Saul3d/pie.git
 
  ## Running 
  Browser to pie diectory and run http-server
+ ```
+ $ hs -p 5000
+ ```
+ in your web browser navigate to 'localhost:5000'
+
+ ## Screenshots
+ ![Images of pies]()
